@@ -18,6 +18,8 @@ public class Exemploswitch {
         break;
         case 2:
         texto = "Mar, Abril, Maio";
+        break;
+        case 3:
         texto = "Jun, Jul, Ago";
         break;
         case 4:
